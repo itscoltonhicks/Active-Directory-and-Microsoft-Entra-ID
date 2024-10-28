@@ -1,6 +1,4 @@
 # Active Directory and Microsoft Entra ID: Authentication, Authorization, and Group Policies
-![AD and Entra ID Lab Environment](https://github.com/user-attachments/assets/eec6bdbf-40ef-45a4-8199-46fc5b477db5)
-
 
 ## Introduction
 
@@ -9,6 +7,11 @@ Active Directory and Microsoft Entra ID are Identity and Access Management (IAM)
 Think of them as the brain of an organization’s Identity and Access Management system. From verifying identities to defining permissions, these systems offer a reliable way to manage who gets through the gates.  And essential group policies must be enforced for everything to work together seamlessly. 
 
 IT professionals are responsible for setting up, monitoring, and adjusting these systems to match the ever-evolving needs of an organization.
+### Active Directory Setup ###
+![AD and Entra ID Lab Environment](https://github.com/user-attachments/assets/eec6bdbf-40ef-45a4-8199-46fc5b477db5)
+
+### Microsoft Entra ID Setup ###
+<img width="3412" alt="Microsoft Entra ID Architecture" src="https://github.com/user-attachments/assets/77a63b4c-ea0c-4e99-a09d-c4bfbb274fc8">
 
 Here's what I did in this project:
 - Create a lab environment in Azure—deploy a Domain Controller and Windows Workstation, then configure necessary network settings.
