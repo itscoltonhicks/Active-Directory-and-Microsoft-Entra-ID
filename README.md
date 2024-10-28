@@ -75,7 +75,7 @@ In this 50+ hours project, I walk through the nuts and bolts of common IT helpde
 
 And we, the gatekeepers, are responsible for setting up, monitoring, and adjusting these systems to match the ever-evolving needs of an organization.
 
-## Read the In-Depth Article Breakdown
+## Read the In-Depth Project Breakdown
 
 If you'd like to see the in-depth project breakdown, check out my article:
 [The IT Professional’s Guide to Active Directory and Microsoft Entra ID: Authentication, Authorization, and Group Policies](https://coltonhicks.medium.com/the-it-professionals-guide-to-active-directory-and-microsoft-entra-id-authentication-d81f7be97805)
