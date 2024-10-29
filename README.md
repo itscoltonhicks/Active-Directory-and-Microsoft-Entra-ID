@@ -21,6 +21,8 @@ Here's what I did in this project:
 
 By the end I gained the tools, knowledge, and practical skills to preserve the confidentiality of network resources.
 
+Click [HERE](https://coltonhicks.medium.com/the-it-professionals-guide-to-active-directory-and-microsoft-entra-id-authentication-d81f7be97805) to read through the full project breakdown.
+
 ## Key Project Components
 
 Here's a list of the IT architecture components, technologies, concepts, and regulations used in the project: 
