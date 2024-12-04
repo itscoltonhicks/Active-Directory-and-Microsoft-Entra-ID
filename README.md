@@ -16,7 +16,7 @@ IT professionals are responsible for setting up, monitoring, and adjusting these
 Here's what I did in this project:
 - Create a lab environment in Azure—deploy a Domain Controller and Windows Workstation, then configure necessary network settings.
 - Configure the Domain Controller to run Active Directory services and add a custom domain.
-- Implement 8 common IT helpdesk tasks in Active Directory: I cover authentication, authorization, and group policy management.
+- Implement 8 common system administration tasks in Active Directory: I cover authentication, authorization, and group policy management.
 - Create 3 users in Entra ID, assign them different roles, and observe their permissions.
 
 By the end I gained the tools, knowledge, and practical skills to preserve the confidentiality of network resources.
@@ -73,7 +73,7 @@ Here's a list of the IT architecture components, technologies, concepts, and reg
 
 Successful Identity and Access Management (IAM) isn’t just about technology—it requires strategy, vigilance, and thoughtful oversight.
 
-In this 50+ hours project, I walk through the nuts and bolts of common IT helpdesk tasks for Active Directory and Microsoft Entra ID. They're the digital gates that decide who can enter and who must be kept out. They determine who enters by authenticating user identities. They also ensure the right level of access by authorizing roles and permissions. 
+In this 50+ hours project, I walk through the nuts and bolts of common system administration tasks for Active Directory and Microsoft Entra ID. They're the digital gates that decide who can enter and who must be kept out. They determine who enters by authenticating user identities. They also ensure the right level of access by authorizing roles and permissions. 
 
 And we, the gatekeepers, are responsible for setting up, monitoring, and adjusting these systems to match the ever-evolving needs of an organization.
 
